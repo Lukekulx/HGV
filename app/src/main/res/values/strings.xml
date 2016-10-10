@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">HGV VDI</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">HGV Driver Walk-Around Check</string>
+    <string name="reg">Vehicle Registration Number</string>
+    <string name="mileage">Mileage</string>
+    <string name="ok">OK</string>
+    <string name="defect">Defect</string>
+    <string name="checkitems">Check Items</string>
+
+    <string name="incab">In-Cab Checks</string>
+    <string name="incab1">Good visibility for driver through cab windows and mirrors. All required mirrors fitted and adjusted
+correctly.</string>
+    <string name="incab2">Driving controls, seat and driver safety belt adjusted correctly</string>
+    <string name="incab3">Windscreen washer, wipers, demister and horn operating correctly</string>
+    <string name="incab4">Tachograph calibrated with correct hours. Speed limiter plaque displayed.</string>
+    <string name="incab5">All instruments, gauges and other warning devices operating correctly (including ABS/EBS in-cab warning
+lights).</string>
+    <string name="incab6">No air leaks or pressure drop.</string>
+    
+    <string name="ext">External Vehicle Checks</string>
+    <string name="ext1">Vehicle sitting square and not leaning to one side.</string>
+    <string name="ext2">Tax, insurance and transport discs (if applicable) present and valid. Number plates clearly visible</string>
+    <string name="ext3">Wheels in good condition and secure. Tyres undamaged with correct infl ation and tread depth.</string>
+    <string name="ext4">All lights, reflectors and markings fitted, clean and in good condition.</string>
+    <string name="ext5">Exhaust secure with no excess noise or smoke.</string>
+    <string name="ext6">Air &amp; electrical suzies and connectors fitted correctly (inc. ABS / EBS cable).</string>
+    <string name="ext7">Vehicle access, steps, catwalk or drawbar coupling in good condition.</string>
+    <string name="ext8">Vehicle body / wings / guards, side and rear / curtains and straps / doors / tail lift in good condition.</string>
+    <string name="ext9">Fifth wheel located and locked correctly, landing legs and handle in correct position.</string>
+    <string name="ext10">Trailer park brake operating correctly</string>
+    <string name="ext11">Air suspension correctly set</string>
+    <string name="ext12">Engine oil, water, windscreen washer reservoir and fuel levels checked and no leaks</string>
+
+    <string name="prior">Prior to Leaving Depot</string>
+    <string name="prior1">Steering and brakes operating correctly.</string>
+    <string name="prior2">Loads secured and weight distributed correctly.</string>
+
+    <string name="onroad">On-The-Road</string>
+    <string name="onroad1">Tachograph, speedometer and speed limiter operating correctly</string>
+    <string name="onroad2">ABS/EBS warning lights off.</string>
+
+    <string name="defectdetails">Defect Details</string>
+
+    <string name="date">Date</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="email">Email</string>
+    <string name="vehicledetails">Vehicle Details</string>
+    <string name="driver">Driver Name</string>
+
+
+</resources>
